@@ -2,9 +2,9 @@
 
 **AI/LLM Security Engineer | AI Red Teaming & Risk Assessment | Governance-Driven AI Security**
 
-I specialize in the adversarial testing of AI systems and the translation of technical AI security risks into business-critical governance frameworks. My work focuses on building attack chains for Large Language Models (LLMs), designing sophisticated guardrail bypass techniques, and creating AI risk assessment frameworks and testing artifacts that help organizations evaluate whether AI systems are safe enough to deploy, govern, and eventually insure.
+I specialize in the adversarial testing of AI systems and translating technical AI security risks into business-critical governance frameworks. My work focuses on building attack chains for Large Language Models (LLMs), designing guardrail bypass techniques, and creating AI risk assessment frameworks and testing artifacts that help organizations evaluate whether AI systems are safe enough to deploy, govern, and eventually insure.
 
-Currently: AI Security Researcher & Practitioner focused on AI/LLM red teaming, risk assessment, and governance, aligned with NIST AI RMF and ISO/IEC 27001
+**Currently:** AI Security Researcher & Practitioner focused on AI/LLM red teaming, risk assessment, and governance, aligned with **NIST AI RMF** and **ISO/IEC 27001**.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jean-akingeneye-00500213/) | 📝 [Technical Blog](#) | 🎯 [AI-LLM Security Lab](https://github.com/Jeanmatozo/AI-LLM-security-lab)
 
@@ -12,42 +12,52 @@ Currently: AI Security Researcher & Practitioner focused on AI/LLM red teaming, 
 
 ## 🎯 What I'm Working On
 
-*   🛡️ Developing **automated red teaming frameworks** for multi-agent systems.
-*   🔍 Researching **indirect prompt injection** vulnerabilities in RAG-based architectures.
-*   📊 Building a **quantitative AI risk scoring engine** for insurance readiness.
-*   🌱 Exploring **policy-as-code** for real-time LLM guardrail enforcement.
+- 🛡️ Developing **automated red teaming frameworks** for multi-agent systems  
+- 🔍 Researching **indirect prompt injection** vulnerabilities in RAG-based architectures  
+- 📊 Building a **quantitative AI risk scoring engine** to explore deployment and insurance readiness  
+- 🌱 Experimenting with **policy-as-code** approaches for real-time LLM guardrail enforcement  
 
 ---
 
 ## 💼 Core Competencies
 
 ### **AI/LLM Red Teaming & Adversarial Testing**
-I design and execute research-driven security assessments of AI models, focusing on prompt injection, jailbreaking, and guardrail bypass techniques.My expertise includes developing multi-step attack chains and identifying vulnerabilities in tool-calling and agentic memory systems.
+I design and execute research-driven security assessments of AI models, focusing on prompt injection, jailbreaking, and guardrail bypass techniques. My work includes developing multi-step attack chains and identifying vulnerabilities in tool-calling and agentic memory systems.
 
 ### **AI Risk Assessment & Insurability Engineering**
-I bridge the gap between technical vulnerabilities and business risk. I develop scoring frameworks based on NIST AI RMF and ISO 42001 to evaluate the security posture of LLMs, providing actionable, framework-mapped insights to support pre-deployment reviews and future insurance readiness discussions.
+I bridge the gap between technical vulnerabilities and business risk by developing scoring frameworks aligned with **NIST AI RMF** and **ISO/IEC 42001**. These frameworks provide actionable, framework-mapped insights to support pre-deployment reviews and future insurance readiness discussions.
 
 ### **AI Governance & Auditability**
-I implement policy-driven security architectures, using policy-as-code to enforce guardrails and ensure regulatory alignment with frameworks like the EU AI Act. My work includes creating automated compliance checking and explainability frameworks for black-box models.
+I implement policy-driven security architectures using policy-as-code to enforce guardrails and support regulatory alignment with emerging frameworks such as the **EU AI Act**. My work includes automated compliance checks and explainability approaches for black-box models.
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🔬 AI-LLM Security Lab *(Core Research Program)*
+A hands-on security research lab focused on **adversarial testing of AI systems**, covering prompt injection, RAG security, agentic tool abuse, and AI risk assessment.  
+This lab serves as the **umbrella environment** where attacks, defenses, and governance frameworks are designed, tested, and documented.
+
+[View Lab →](https://github.com/Jeanmatozo/AI-LLM-security-lab)
+
+---
+
 ### AI Security & Red Teaming
 
 | | |
 | --- | --- |
-| **🔴LLM Red Team Toolkit** *(Research / Active Development)*<br>A comprehensive collection of prompt injection attacks, jailbreak templates, and automated evaluation scripts for testing model robustness.<br>[View Project →](#) | **🛡️ Guardrail Bypass Laboratory**<br>Systematic testing and comparative analysis of commercial AI safety systems to identify and document bypass techniques.<br>[View Project →](#) |
-| **🤖 Agentic Security Sandbox**<br>A vulnerable-by-design AI agent environment for security training, featuring scenarios for tool misuse and privilege escalation.<br>[View Project →](#) | **📚 RAG Security Audit Framework**<br>Testing framework for Retrieval-Augmented Generation systems, focusing on document poisoning and context injection.<br>[View Project →](#) |
+| **🔴 LLM Red Team Toolkit** *(Research / Active Development)*<br>A collection of prompt injection attacks, jailbreak templates, and automated evaluation scripts for testing model robustness.<br>[View Project →](#) | **🛡️ Guardrail Bypass Laboratory** *(Comparative Testing)*<br>Systematic testing and comparative analysis of commercial AI safety systems to identify and document bypass techniques.<br>[View Project →](#) |
+| **🤖 Agentic Security Sandbox** *(Training & Experimentation)*<br>A vulnerable-by-design AI agent environment featuring scenarios for tool misuse and privilege escalation.<br>[View Project →](#) | **📚 RAG Security Audit Framework** *(Framework & Testing)*<br>Testing framework for Retrieval-Augmented Generation systems, focusing on document poisoning and context injection.<br>[View Project →](#) |
+
+---
 
 ### AI Governance & Risk Management
 
 | Project | Technology Stack | Description |
 | --- | --- | --- |
-| [AI Risk Assessment Template** *(Prototype / Framework Exploration)*](#) | Python, YAML, NIST AI RMF | Standardized framework for evaluating AI system security and insurability. |
-| [AI Governance-as-Code](#) | Python, OPA, Rego | Policy enforcement engine for real-time LLM output filtering and compliance. |
-| [Insurability Verdict Generator](#) | FastAPI, React, SQL | Mock platform for calculating AI insurance premiums based on security posture. |
+| **AI Risk Assessment Template** *(Prototype / Framework Exploration)* | Python, YAML, NIST AI RMF | Standardized framework for evaluating AI system security and supporting deployment and future insurability decisions. |
+| **AI Governance-as-Code** *(Experimental)* | Python, OPA, Rego | Policy-as-code patterns for enforcing guardrails and compliance controls in AI systems. |
+| **Insurability Verdict Generator** *(Concept / Mock Platform)* | FastAPI, React, SQL | Conceptual platform for exploring how AI security posture could inform insurance and deployment decisions. |
 
 ---
 
@@ -64,27 +74,23 @@ I implement policy-driven security architectures, using policy-as-code to enforc
 
 ---
 
-## 📈 Security Research Metrics
+## 📈 Security Research Metrics *(Lab-Based)*
 
-*   🔴 **150+** Documented prompt injection variants
-*   🎯 **15** AI systems tested for vulnerabilities
-*   📊 **8** Risk assessment frameworks developed
-*   🛡️ **95%** Guardrail bypass success rate (controlled lab testing)
+- 🔴 **150+** documented prompt injection variants  
+- 🎯 **15** AI systems tested in controlled environments  
+- 📊 **8** AI risk assessment frameworks developed  
+- 🛡️ **95%** guardrail bypass success rate *(controlled lab testing)*  
 
 ---
 
 ## 🎓 Community & Thought Leadership
 
-*   📝 **AI Security Blog** - Weekly writeups on LLM vulnerabilities and defense strategies.
-*   🎤 **Conference Talks** - Presenting on "The Future of AI Insurability" at local security meetups.
-*   🤝 **Open Source** - Contributor to AI security evaluation benchmarks.
-*   💡 **CTF Creator** - Designing AI-focused security challenges for the community.
+- 📝 **example here (list)
 
 ---
 
----
-## 📫 Let's Connect
-I am always open to discussing AI security research, adversarial testing methodologies, and the evolution of AI governance.
+## 📫 Let’s Connect
 
+I am always open to discussing AI security research, adversarial testing methodologies, and the evolving landscape of AI governance and risk.
 
-_"Securing the future of intelligence by thinking like the adversary today."_
+*“Securing the future of intelligence by thinking like the adversary.”*
