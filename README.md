@@ -4,7 +4,7 @@
 
 I specialize in the adversarial testing of AI systems and the translation of technical AI security risks into business-critical governance frameworks. My work focuses on building attack chains for Large Language Models (LLMs), designing sophisticated guardrail bypass techniques, and creating AI risk assessment frameworks and testing artifacts that help organizations evaluate whether AI systems are safe enough to deploy, govern, and eventually insure.
 
-Currently: AI Security Researcher & Practitioner | AI/LLM Red Teaming | NIST AI RMF & ISO/IEC 27001
+Currently: AI Security Researcher & Practitioner focused on AI/LLM red teaming, risk assessment, and governance, aligned with NIST AI RMF and ISO/IEC 27001
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jean-akingeneye-00500213/) | 📝 [Technical Blog](#) | 🎯 [AI-LLM Security Lab](https://github.com/Jeanmatozo/AI-LLM-security-lab)
 
