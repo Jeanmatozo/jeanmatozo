@@ -2,7 +2,7 @@
 
 **AI/LLM Security Engineer | AI Red Teaming & Risk Assessment | Governance-Driven AI Security**
 
-I specialize in the adversarial testing of AI systems and the translation of technical AI security risks into business-critical governance frameworks. My work focuses on building attack chains for Large Language Models (LLMs), designing sophisticated guardrail bypass techniques, and creating risk assessment frameworks that determine whether AI systems are safe enough to insure, deploy, and trust.
+I specialize in the adversarial testing of AI systems and the translation of technical AI security risks into business-critical governance frameworks. My work focuses on building attack chains for Large Language Models (LLMs), designing sophisticated guardrail bypass techniques, and creating AI risk assessment frameworks and testing artifacts that help organizations evaluate whether AI systems are safe enough to deploy, govern, and eventually insure.
 
 Currently: AI Security Researcher & Practitioner | AI/LLM Red Teaming | NIST AI RMF & ISO/IEC 27001
 
