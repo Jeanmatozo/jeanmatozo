@@ -82,8 +82,9 @@ I implement policy-driven security architectures, using policy-as-code to enforc
 
 ---
 
+---
 ## 📫 Let's Connect
-
 I am always open to discussing AI security research, adversarial testing methodologies, and the evolution of AI governance.
+
 
 _"Securing the future of intelligence by thinking like the adversary today."_
