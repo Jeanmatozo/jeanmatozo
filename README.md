@@ -1,6 +1,6 @@
 # Hi, I'm Jean 👋
 
-**AI/LLM Security Engineer | Red Team for AI Systems | AI Risk Assessment & Insurability**
+**AI/LLM Security Engineer | AI Red Teaming & Risk Assessment | Governance-Driven AI Security**
 
 I specialize in the adversarial testing of AI systems and the translation of technical AI security risks into business-critical governance frameworks. My work focuses on building attack chains for Large Language Models (LLMs), designing sophisticated guardrail bypass techniques, and creating risk assessment frameworks that determine whether AI systems are safe enough to insure, deploy, and trust.
 
