@@ -6,11 +6,11 @@ I specialize in the adversarial testing of AI systems and translating technical 
 
 **Currently:** AI Security Researcher & Practitioner focused on AI/LLM red teaming, risk assessment, and governance, aligned with **NIST AI RMF** and **ISO/IEC 27001**.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/jean-akingeneye-00500213/) | 📝 [Technical Blog](#) | 🎯 [AI-LLM Security Lab](https://github.com/Jeanmatozo/AI-LLM-security-lab)
+🔗 [LinkedIn](https://www.linkedin.com/in/jean-akingeneye-00500213/) |  [Technical Blog](#) |  [AI-LLM Security Lab](https://github.com/Jeanmatozo/AI-LLM-security-lab)
 
 ---
 
-## 🎯 What I'm Working On
+## What I'm Working On
 
 - 🛡️ Developing **automated red teaming frameworks** for multi-agent systems  
 - 🔍 Researching **indirect prompt injection** vulnerabilities in RAG-based architectures  
@@ -19,7 +19,7 @@ I specialize in the adversarial testing of AI systems and translating technical 
 
 ---
 
-## 💼 Core Competencies
+## Core Competencies
 
 ### **AI/LLM Red Teaming & Adversarial Testing**
 I design and execute research-driven security assessments of AI models, focusing on prompt injection, jailbreaking, and guardrail bypass techniques. My work includes developing multi-step attack chains and identifying vulnerabilities in tool-calling and agentic memory systems.
@@ -32,7 +32,7 @@ I implement policy-driven security architectures using policy-as-code to enforce
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔬 AI-LLM Security Lab *(Core Research Program)*
 A hands-on security research lab focused on **adversarial testing of AI systems**, covering prompt injection, RAG security, agentic tool abuse, and AI risk assessment.  
@@ -61,7 +61,7 @@ This lab serves as the **umbrella environment** where attacks, defenses, and gov
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 **AI/ML Frameworks**  
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-755139?style=for-the-badge) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
@@ -83,13 +83,13 @@ This lab serves as the **umbrella environment** where attacks, defenses, and gov
 
 ---
 
-## 🎓 Community & Thought Leadership
+## Community & Thought Leadership
 
 - 📝 **example here (list)
 
 ---
 
-## 📫 Let’s Connect
+##  Let’s Connect
 
 I am always open to discussing AI security research, adversarial testing methodologies, and the evolving landscape of AI governance and risk.
 
