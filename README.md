@@ -22,10 +22,10 @@ Currently: AI Security Researcher & Practitioner focused on AI/LLM red teaming, 
 ## 💼 Core Competencies
 
 ### **AI/LLM Red Teaming & Adversarial Testing**
-I conduct deep-dive security assessments of AI models, focusing on prompt injection, jailbreaking, and model guardrail bypass strategies. My expertise includes developing multi-step attack chains and identifying vulnerabilities in tool-calling and agentic memory systems.
+I design and execute research-driven security assessments of AI models, focusing on prompt injection, jailbreaking, and guardrail bypass techniques.My expertise includes developing multi-step attack chains and identifying vulnerabilities in tool-calling and agentic memory systems.
 
 ### **AI Risk Assessment & Insurability Engineering**
-I bridge the gap between technical vulnerabilities and business risk. I develop scoring frameworks based on NIST AI RMF and ISO 42001 to evaluate the security posture of LLMs, providing actionable insights for pre-deployment and insurance readiness.
+I bridge the gap between technical vulnerabilities and business risk. I develop scoring frameworks based on NIST AI RMF and ISO 42001 to evaluate the security posture of LLMs, providing actionable, framework-mapped insights to support pre-deployment reviews and future insurance readiness discussions.
 
 ### **AI Governance & Auditability**
 I implement policy-driven security architectures, using policy-as-code to enforce guardrails and ensure regulatory alignment with frameworks like the EU AI Act. My work includes creating automated compliance checking and explainability frameworks for black-box models.
@@ -38,14 +38,14 @@ I implement policy-driven security architectures, using policy-as-code to enforc
 
 | | |
 | --- | --- |
-| **🔴 LLM Red Team Toolkit**<br>A comprehensive collection of prompt injection attacks, jailbreak templates, and automated evaluation scripts for testing model robustness.<br>[View Project →](#) | **🛡️ Guardrail Bypass Laboratory**<br>Systematic testing and comparative analysis of commercial AI safety systems to identify and document bypass techniques.<br>[View Project →](#) |
+| **🔴LLM Red Team Toolkit** *(Research / Active Development)*<br>A comprehensive collection of prompt injection attacks, jailbreak templates, and automated evaluation scripts for testing model robustness.<br>[View Project →](#) | **🛡️ Guardrail Bypass Laboratory**<br>Systematic testing and comparative analysis of commercial AI safety systems to identify and document bypass techniques.<br>[View Project →](#) |
 | **🤖 Agentic Security Sandbox**<br>A vulnerable-by-design AI agent environment for security training, featuring scenarios for tool misuse and privilege escalation.<br>[View Project →](#) | **📚 RAG Security Audit Framework**<br>Testing framework for Retrieval-Augmented Generation systems, focusing on document poisoning and context injection.<br>[View Project →](#) |
 
 ### AI Governance & Risk Management
 
 | Project | Technology Stack | Description |
 | --- | --- | --- |
-| [AI Risk Assessment Template](#) | Python, YAML, NIST AI RMF | Standardized framework for evaluating AI system security and insurability. |
+| [AI Risk Assessment Template** *(Prototype / Framework Exploration)*](#) | Python, YAML, NIST AI RMF | Standardized framework for evaluating AI system security and insurability. |
 | [AI Governance-as-Code](#) | Python, OPA, Rego | Policy enforcement engine for real-time LLM output filtering and compliance. |
 | [Insurability Verdict Generator](#) | FastAPI, React, SQL | Mock platform for calculating AI insurance premiums based on security posture. |
 
@@ -69,7 +69,7 @@ I implement policy-driven security architectures, using policy-as-code to enforc
 *   🔴 **150+** Documented prompt injection variants
 *   🎯 **15** AI systems tested for vulnerabilities
 *   📊 **8** Risk assessment frameworks developed
-*   🛡️ **95%** Guardrail bypass success rate (controlled testing)
+*   🛡️ **95%** Guardrail bypass success rate (controlled lab testing)
 
 ---
 
