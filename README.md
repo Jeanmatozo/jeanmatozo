@@ -85,7 +85,9 @@ This lab serves as the **umbrella environment** where attacks, defenses, and gov
 
 ## Community & Thought Leadership
 
-- 📝 **example here (list)
+- **Cyber Touch Point Community** - Contributor & technical participant
+- **CMMC professionals network (cpn)** - Member and mentee
+- **LLM Security and AI Red Teaming group** - Member
 
 ---
 
