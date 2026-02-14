@@ -12,10 +12,10 @@ I specialize in the adversarial testing of AI systems and translating technical 
 
 ## What I'm Working On
 
-- 🛡️ Developing **automated red teaming frameworks** for multi-agent systems  
-- 🔍 Researching **indirect prompt injection** vulnerabilities in RAG-based architectures  
-- 📊 Building a **quantitative AI risk scoring engine** to explore deployment and insurance readiness  
-- 🌱 Experimenting with **policy-as-code** approaches for real-time LLM guardrail enforcement  
+- Developing **automated red teaming frameworks** for multi-agent systems  
+- Researching **indirect prompt injection** vulnerabilities in RAG-based architectures  
+- Building a **quantitative AI risk scoring engine** to explore deployment and insurance readiness  
+- Experimenting with **policy-as-code** approaches for real-time LLM guardrail enforcement  
 
 ---
 
@@ -76,10 +76,10 @@ This lab serves as the **umbrella environment** where attacks, defenses, and gov
 
 ## 📈 Security Research Metrics *(Lab-Based)*
 
-- 🔴 **150+** documented prompt injection variants  
-- 🎯 **15** AI systems tested in controlled environments  
-- 📊 **8** AI risk assessment frameworks developed  
-- 🛡️ **95%** guardrail bypass success rate *(controlled lab testing)*  
+- **150+** documented prompt injection variants  
+- **15** AI systems tested in controlled environments  
+- **8** AI risk assessment frameworks developed  
+- **95%** guardrail bypass success rate *(controlled lab testing)*  
 
 ---
 
