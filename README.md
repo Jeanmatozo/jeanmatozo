@@ -72,11 +72,8 @@ In addition to adversarial testing, I develop **governance-aligned risk artifact
 **Data & Artifacts**  
 JSON / JSON Schema, YAML, audit-ready evaluation artifacts, reproducible test outputs for governance and review.
 
----
-
 **Governance & Policy**  
 NIST AI RMF, ISO/IEC frameworks (27001, 42001), policy-as-code, runtime guardrail enforcement, compliance-aligned risk translation.
-
 OPA (Rego) for policy evaluation and enforcement prototypes.
 
 ---
