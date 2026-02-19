@@ -46,7 +46,7 @@ This lab serves as the **umbrella environment** where attacks, defenses, and gov
 
 | | |
 | --- | --- |
-| **🔴 LLM Red Team Toolkit** *(Research / Active Development)*<br>A collection of prompt injection attacks, jailbreak templates, and automated evaluation scripts for testing model robustness.<br>[View Project →](https://github.com/Jeanmatozo/llm-red-team-toolkit/tree/main) | **🛡️ Guardrail Bypass Laboratory** *(Comparative Testing)*<br>Systematic testing and comparative analysis of commercial AI safety systems to identify and document bypass techniques.<br>[View Project →](#) |
+| **🔴 LLM Red Team Toolkit** *(Research / Active Development)*<br>Adversary-focused red teaming of LLMs using realistic attack flows, emphasizing reasoning, sequencing, and boundary discovery.<br>[View Project →](https://github.com/Jeanmatozo/llm-red-team-toolkit/tree/main) | **🛡️ Guardrail Bypass Laboratory** *(Comparative Testing)*<br>Systematic testing and comparative analysis of commercial AI safety systems to identify and document bypass techniques.<br>[View Project →](#) |
 | **🤖 Agentic Security Sandbox** *(Training & Experimentation)*<br>A vulnerable-by-design AI agent environment featuring scenarios for tool misuse and privilege escalation.<br>[View Project →](#) | **📚 RAG Security Audit Framework** *(Framework & Testing)*<br>Testing framework for Retrieval-Augmented Generation systems, focusing on document poisoning and context injection.<br>[View Project →](#) |
 
 ---
