@@ -12,17 +12,16 @@ I specialize in the adversarial testing of AI systems and translating technical 
 
 ## What I'm Working On
 
-- Developing **automated red teaming frameworks** for multi-agent systems  
-- Researching **indirect prompt injection** vulnerabilities in RAG-based architectures  
-- Building a **quantitative AI risk scoring engine** to explore deployment and insurance readiness  
-- Experimenting with **policy-as-code** approaches for real-time LLM guardrail enforcement  
+- Developing **adversary-driven red teaming frameworks** for LLM and agentic systems  
+- Researching **RAG and indirect prompt injection risks** that impact enterprise deployment  
+- Building **governance-aligned AI risk scoring artifacts** to support deployment and insurance readiness
 
 ---
 
 ## Core Competencies
 
 ### **AI/LLM Red Teaming & Adversarial Testing**
-I design and execute research-driven security assessments of AI models, focusing on prompt injection, jailbreaking, and guardrail bypass techniques. My work includes developing multi-step attack chains and identifying vulnerabilities in tool-calling and agentic memory systems.
+I design and execute research-driven security assessments of AI models, focusing on prompt injection, jailbreaking, and guardrail bypass techniques with an emphasis on multi-step attack chains, tool misuse, and boundary expansion
 
 ### **AI Risk Assessment & Insurability Engineering**
 I bridge the gap between technical vulnerabilities and business risk by developing scoring frameworks aligned with **NIST AI RMF** and **ISO/IEC 42001**. These frameworks provide actionable, framework-mapped insights to support pre-deployment reviews and future insurance readiness discussions.
@@ -51,35 +50,42 @@ This lab serves as the **umbrella environment** where attacks, defenses, and gov
 
 ---
 
-### AI Governance & Risk Management
+### AI Governance & Risk Engineering
 
-| Project | Technology Stack | Description |
-| --- | --- | --- |
-| **AI Risk Assessment Template** *(Prototype / Framework Exploration)* | Python, YAML, NIST AI RMF | Standardized framework for evaluating AI system security and supporting deployment and future insurability decisions. |
-| **AI Governance-as-Code** *(Experimental)* | Python, OPA, Rego | Policy-as-code patterns for enforcing guardrails and compliance controls in AI systems. |
-| **Insurability Verdict Generator** *(Concept / Mock Platform)* | FastAPI, React, SQL | Conceptual platform for exploring how AI security posture could inform insurance and deployment decisions. |
+In addition to adversarial testing, I develop **governance-aligned risk artifacts**—including AI risk assessment templates, policy-as-code patterns, and deployment readiness signals—to help organizations interpret technical findings through the lens of **NIST AI RMF, ISO/IEC standards, and emerging regulatory frameworks**.
 
 ---
 
-## Technology Stack
+## Technology Stack 
 
 **AI/ML Frameworks**  
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-755139?style=for-the-badge) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
 
-**Security & Red Teaming**  
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-373A3C?style=for-the-badge&logo=owasp&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2496ED?style=for-the-badge)
+**Adversarial Testing & Evaluation**  
+![OWASP](https://img.shields.io/badge/OWASP-373A3C?style=for-the-badge&logo=owasp&logoColor=white)
 
 **Infrastructure & Automation**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Data & Artifacts**  
+JSON / JSON Schema, YAML, audit-ready evaluation artifacts, reproducible test outputs for governance and review.
 
 ---
 
-## 📈 Security Research Metrics *(Lab-Based)*
+**Governance & Policy**  
+NIST AI RMF, ISO/IEC frameworks (27001, 42001), policy-as-code, runtime guardrail enforcement, compliance-aligned risk translation.
 
-- **150+** documented prompt injection variants  
-- **15** AI systems tested in controlled environments  
-- **8** AI risk assessment frameworks developed  
-- **95%** guardrail bypass success rate *(controlled lab testing)*  
+OPA (Rego) for policy evaluation and enforcement prototypes.
+
+---
+
+## Research Signals *(Controlled Lab Environments)*
+
+- Documented adversarial prompt patterns and attack variants
+- Multiple AI systems evaluated using repeatable test harnesses
+- Governance-aligned risk assessment artifacts developed for comparative analysis
 
 ---
 
