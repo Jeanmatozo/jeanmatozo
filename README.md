@@ -76,9 +76,10 @@ Practical, ready-to-use artifacts for **rights- and safety-impacting AI systems*
 ![OWASP](https://img.shields.io/badge/OWASP-373A3C?style=for-the-badge&logo=owasp&logoColor=white)
 
 **Infrastructure & Automation**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Governance & Compliance**  
+NIST AI RMF, OMB M-24-10, ISO/IEC 27001/42001, policy-as-code, audit-ready Markdown + Python artifacts.
 
 **Data & Artifacts**  
 JSON / JSON Schema, YAML, audit-ready evaluation artifacts, reproducible test outputs for governance and review.
@@ -91,9 +92,9 @@ OPA (Rego) for policy evaluation and enforcement prototypes.
 
 ## Research Signals *(Controlled Lab Environments)*
 
-- Documented adversarial prompt patterns and attack variants
-- Multiple AI systems evaluated using repeatable test harnesses
-- Governance-aligned risk assessment artifacts developed for comparative analysis
+- Documented adversarial prompt patterns and attack variants  
+- Multiple AI systems evaluated using repeatable test harnesses  
+- **Governance-aligned risk assessment artifacts** developed for federal and SEC compliance
 
 ---
 
