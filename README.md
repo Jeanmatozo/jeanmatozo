@@ -2,9 +2,10 @@
 
 **AI/LLM Security Engineer | AI Red Teaming & Risk Assessment | Governance-Driven AI Security**
 
-I specialize in the adversarial testing of AI systems and translating technical AI security risks into business-critical governance frameworks. My work focuses on building attack chains for Large Language Models (LLMs), designing guardrail bypass techniques, and creating AI risk assessment frameworks and testing artifacts that help organizations evaluate whether AI systems are safe enough to deploy, govern, and eventually insure.
+I specialize in the adversarial testing of AI systems **and** translating technical AI security risks into business-critical governance frameworks. My work focuses on building attack chains for Large Language Models (LLMs), designing guardrail bypass techniques, **and creating audit-ready AI risk assessment artifacts** that help organizations evaluate whether AI systems are safe enough to deploy, govern, and insure under US federal mandates.
 
-**Currently:** AI Security Researcher & Practitioner focused on AI/LLM red teaming, risk assessment, and governance, aligned with **NIST AI RMF** and **ISO/IEC 27001**.
+**Currently:** AI Security Researcher & Practitioner focused on AI/LLM red teaming, risk assessment, and governance, aligned with **NIST AI RMF**,**OMB M-24-10**, and **ISO/IEC 27001**.
+
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jean-akingeneye-00500213/) |  [Technical Blog](#) |  [AI-LLM Security Lab](https://github.com/Jeanmatozo/AI-LLM-security-lab)
 
@@ -20,13 +21,13 @@ I specialize in the adversarial testing of AI systems and translating technical 
 
 ## Core Competencies
 
-### **AI/LLM Red Teaming & Adversarial Testing**  
+**AI/LLM Red Teaming & Adversarial Testing**  
 → Prompt injection, jailbreaking, multi-step attack chains, guardrail bypass
 
-### **AI Risk Assessment & Insurability Engineering**  
+**AI Risk Assessment & Insurability Engineering**  
 → Bridging OWASP LLM Top 10 → NIST AI RMF → financial/insurance risk
 
-### **AI Governance & Auditability**  
+**AI Governance & Auditability**  
 → Policy-as-code, automated compliance checks, NIST AI RMF + OMB M-24-10 artifacts
 
 ---
@@ -52,7 +53,17 @@ This lab serves as the **umbrella environment** where attacks, defenses, and gov
 
 ### AI Governance & Risk Engineering
 
-In addition to adversarial testing, I develop **governance-aligned risk artifacts**—including AI risk assessment templates, policy-as-code patterns, and deployment readiness signals—to help organizations interpret technical findings through the lens of **NIST AI RMF, ISO/IEC standards, and emerging regulatory frameworks**.
+**NIST AI RMF Mappings & Assessments** *(US Federal Compliance Toolkit)*  
+Practical, ready-to-use artifacts for **rights- and safety-impacting AI systems**:
+- OMB M-24-10-aligned Impact Assessment templates  
+- AI System Risk Registers  
+- Federal AI Inventory template  
+- Automated RMF alignment checks (Python)  
+- RAG/LLM examples mapping OWASP LLM Top 10 → NIST RMF functions  
+
+**Designed specifically to help GovCon contractors and finance firms** reduce SEC liability, pass audits, and prove insurability.
+
+[View Repo →](https://github.com/Jeanmatozo/nist-ai-rmf-assessments)
 
 ---
 
