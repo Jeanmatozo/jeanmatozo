@@ -20,14 +20,14 @@ I specialize in the adversarial testing of AI systems and translating technical 
 
 ## Core Competencies
 
-### **AI/LLM Red Teaming & Adversarial Testing**
-I design and execute research-driven security assessments of AI models, focusing on prompt injection, jailbreaking, and guardrail bypass techniques with an emphasis on multi-step attack chains, tool misuse, and boundary expansion
+### **AI/LLM Red Teaming & Adversarial Testing**  
+→ Prompt injection, jailbreaking, multi-step attack chains, guardrail bypass
 
-### **AI Risk Assessment & Insurability Engineering**
-I bridge the gap between technical vulnerabilities and business risk by developing scoring frameworks aligned with **NIST AI RMF** and **ISO/IEC 42001**. These frameworks provide actionable, framework-mapped insights to support pre-deployment reviews and future insurance readiness discussions.
+### **AI Risk Assessment & Insurability Engineering**  
+→ Bridging OWASP LLM Top 10 → NIST AI RMF → financial/insurance risk
 
-### **AI Governance & Auditability**
-I implement policy-driven security architectures using policy-as-code to enforce guardrails and support regulatory alignment with emerging frameworks such as the **EU AI Act**. My work includes automated compliance checks and explainability approaches for black-box models.
+### **AI Governance & Auditability**  
+→ Policy-as-code, automated compliance checks, NIST AI RMF + OMB M-24-10 artifacts
 
 ---
 
