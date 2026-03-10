@@ -7,7 +7,7 @@ I specialize in the adversarial testing of AI systems **and** translating techni
 **Currently:** AI Security Researcher & Practitioner focused on AI/LLM red teaming, risk assessment, and governance, aligned with **NIST AI RMF**,**OMB M-24-10**, and **ISO/IEC 27001**.
 
 
-🔗 [LinkedIn](https://www.linkedin.com/in/jean-akingeneye-00500213/) |  [Technical Blog](#) |  [AI-LLM Security Lab](https://github.com/Jeanmatozo/AI-LLM-security-lab)
+🔗 [LinkedIn](https://www.linkedin.com/in/jean-akingeneye-00500213/) |  [Consulting](https://ecomitrix.com/) |  [AI-LLM Security Lab](https://github.com/Jeanmatozo/AI-LLM-security-lab)
 
 ---
 
