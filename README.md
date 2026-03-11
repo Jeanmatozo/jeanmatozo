@@ -1,21 +1,53 @@
 # Hi, I'm Jean 👋
 
-**AI/LLM Security Engineer | AI Red Teaming & Risk Assessment | Governance-Driven AI Security**
+**AI/LLM Security Engineer | AI Red Teaming & Risk Assessment | AI Risk & Governance**
 
-I specialize in the adversarial testing of AI systems **and** translating technical AI security risks into business-critical governance frameworks. My work focuses on building attack chains for Large Language Models (LLMs), designing guardrail bypass techniques, **and creating audit-ready AI risk assessment artifacts** that help organizations evaluate whether AI systems are safe enough to deploy, govern, and insure under US federal mandates.
+I run an **AI security research lab** where I attack, break, and analyze AI systems to understand how they fail, then translate those findings into governance frameworks that help organizations deploy AI safely.
 
-**Currently:** AI Security Researcher & Practitioner focused on AI/LLM red teaming, risk assessment, and governance, aligned with **NIST AI RMF**,**OMB M-24-10**, and **ISO/IEC 27001**.
+My work sits at the intersection of **adversarial ML, LLM security engineering, and AI risk governance**.
+
+My research and lab work align with enterprise governance and risk frameworks including **NIST AI RMF**, **OMB M-24-10**, and **ISO/IEC 27001 / 42001**.
+
 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jean-akingeneye-00500213/) |  [Consulting](https://ecomitrix.com/) |  [AI-LLM Security Lab](https://github.com/Jeanmatozo/AI-LLM-security-lab)
 
+
 ---
+## Research Areas
 
-## What I'm Working On
+### LLM Red Teaming & Adversarial Testing
+Systematic probing of how AI systems can be manipulated, bypassed, or exploited:
 
-- Developing **adversary-driven red teaming frameworks** for LLM and agentic systems  
-- Researching **RAG and indirect prompt injection risks** that impact enterprise deployment  
-- Building **governance-aligned AI risk scoring artifacts** to support deployment and insurance readiness
+- Prompt injection (direct and indirect)
+- Guardrail and safety filter bypass
+- Multi-turn adversarial manipulation
+- Jailbreak and policy circumvention
+- AI agent tool abuse and privilege escalation
+
+### RAG Security & Data Exfiltration
+As organizations connect LLMs to internal data sources, the attack surface expands significantly. Research focus areas:
+
+- Document poisoning via adversarial content injection
+- Indirect prompt injection through retrieved documents
+- Retrieval boundary failures and context leakage
+- Sensitive document exfiltration through crafted queries
+
+### AI Agent Security
+Agentic systems introduce attack surfaces that don't exist in standard chatbot deployments:
+
+- Tool call manipulation and abuse
+- Cross-agent trust boundary violations
+- Persistent memory exploitation
+- Orchestration layer vulnerabilities
+
+### AI Risk Assessment & Governance Engineering
+Findings mean nothing if they can't drive decisions. I build governance artifacts that bridge technical security work with organizational risk management:
+
+- AI system risk registers
+- RMF-aligned control mapping
+- OMB M-24-10 impact assessment structures
+- OWASP LLM Top 10 → NIST AI RMF translation
 
 ---
 
@@ -32,13 +64,16 @@ I specialize in the adversarial testing of AI systems **and** translating techni
 
 ---
 
-## Featured Projects
+## Lab Projects
 
-### 🔬 AI-LLM Security Lab *(Core Research Program)*
-A hands-on security research lab focused on **adversarial testing of AI systems**, covering prompt injection, RAG security, agentic tool abuse, and AI risk assessment.  
-This lab serves as the **umbrella environment** where attacks, defenses, and governance frameworks are designed, tested, and documented.
+ [`AI-LLM-security-lab`](https://github.com/Jeanmatozo/AI-LLM-security-lab)  
+Core research environment. Contains adversarial prompt experiments, attack simulations, failure mode analysis, and governance-aligned risk artifacts across modern AI deployment surfaces: chatbots, RAG pipelines, AI agents, enterprise copilots.
 
-[View Lab →](https://github.com/Jeanmatozo/AI-LLM-security-lab)
+[`llm-red-team-toolkit`](https://github.com/Jeanmatozo/llm-red-team-toolkit)  
+Automation toolkit for adversarial AI testing. Structured attack prompt libraries, automated testing harnesses, red team experiment workflows, and reproducible test logs. Built to simulate realistic adversarial probing at scale.
+
+[`nist-ai-rmf-assessments`](https://github.com/Jeanmatozo/nist-ai-rmf-assessments)  
+Governance engineering repository. Translates LLM security findings into structured risk management artifacts — RMF evaluation templates, OMB M-24-10 assessment structures, OWASP LLM Top 10 control mappings. Built for organizations deploying high-impact AI systems
 
 ---
 
@@ -48,22 +83,6 @@ This lab serves as the **umbrella environment** where attacks, defenses, and gov
 | --- | --- |
 | **🔴 LLM Red Team Toolkit** *(Research / Active Development)*<br>Adversary-focused red teaming of LLMs using realistic attack flows, emphasizing reasoning, sequencing, and boundary discovery.<br>[View Project →](https://github.com/Jeanmatozo/llm-red-team-toolkit/tree/main) | **🛡️ AI Guardrail Evaluation Lab** *(Comparative Assurance)*<br>A comparative testing framework for evaluating the effectiveness and failure modes of commercial AI guardrails, focused on governance, deployment risk, and assurance use cases.<br>[View Project →](#) |
 | **📚 RAG Security Risk Assessment Framework** <br>A governance-oriented testing framework for Retrieval-Augmented Generation (RAG) systems, analyzing document poisoning, context injection, and retrieval boundary failures.<br>[View Project →](#) |
-
----
-
-### AI Governance & Risk Engineering
-
-**NIST AI RMF Mappings & Assessments** *(US Federal Compliance Toolkit)*  
-Practical, ready-to-use artifacts for **rights- and safety-impacting AI systems**:
-- OMB M-24-10-aligned Impact Assessment templates  
-- AI System Risk Registers  
-- Federal AI Inventory template  
-- Automated RMF alignment checks (Python)  
-- RAG/LLM examples mapping OWASP LLM Top 10 → NIST RMF functions  
-
-**Designed specifically to help GovCon contractors and finance firms** reduce SEC liability, pass audits, and prove insurability.
-
-[View Repo →](https://github.com/Jeanmatozo/nist-ai-rmf-assessments)
 
 ---
 
@@ -92,9 +111,15 @@ OPA (Rego) for policy evaluation and enforcement prototypes.
 
 ## Research Signals *(Controlled Lab Environments)*
 
-- Documented adversarial prompt patterns and attack variants  
-- Multiple AI systems evaluated using repeatable test harnesses  
-- **Governance-aligned risk assessment artifacts** developed for federal and SEC compliance
+Experiments in this repository include:
+
+- adversarial prompt testing
+- guardrail failure analysis
+- AI agent boundary testing
+- governance-aligned security documentation
+
+All experiments are conducted in **controlled research environments** designed to understand failure modes and strengthen AI system resilience.
+
 
 ---
 
