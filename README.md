@@ -66,14 +66,14 @@ Findings mean nothing if they can't drive decisions. I build governance artifact
 
 ## Lab Projects
 
- [`AI-LLM-security-lab`](https://github.com/Jeanmatozo/AI-LLM-security-lab)  
+ [AI-LLM-security-lab](https://github.com/Jeanmatozo/AI-LLM-security-lab)  
 Core research environment. Contains adversarial prompt experiments, attack simulations, failure mode analysis, and governance-aligned risk artifacts across modern AI deployment surfaces: chatbots, RAG pipelines, AI agents, enterprise copilots.
 
-[`llm-red-team-toolkit`](https://github.com/Jeanmatozo/llm-red-team-toolkit)  
+[llm-red-team-toolkit](https://github.com/Jeanmatozo/llm-red-team-toolkit)  
 Automation toolkit for adversarial AI testing. Structured attack prompt libraries, automated testing harnesses, red team experiment workflows, and reproducible test logs. Built to simulate realistic adversarial probing at scale.
 
-[`nist-ai-rmf-assessments`](https://github.com/Jeanmatozo/nist-ai-rmf-assessments)  
-Governance engineering repository. Translates LLM security findings into structured risk management artifacts — RMF evaluation templates, OMB M-24-10 assessment structures, OWASP LLM Top 10 control mappings. Built for organizations deploying high-impact AI systems
+[nist-ai-rmf-assessments](https://github.com/Jeanmatozo/nist-ai-rmf-assessments)  
+This repository demonstrates practical mappings of AI vulnerabilities (e.g., OWASP LLM Top 10) to the NIST AI Risk Management Framework (RMF) 1.0. It focuses on US federal mandates (OMB M-24-10 legacy guidance for rights- and safety-impacting AI systems) and helps reduce liability under SEC AI disclosure rules.
 
 ---
 
