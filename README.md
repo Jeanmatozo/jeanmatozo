@@ -66,14 +66,23 @@ Findings mean nothing if they can't drive decisions. I build governance artifact
 
 ## Lab Projects
 
- [AI-LLM-security-lab](https://github.com/Jeanmatozo/AI-LLM-security-lab)  
-Core research environment. Contains adversarial prompt experiments, attack simulations, failure mode analysis, and governance-aligned risk artifacts across modern AI deployment surfaces: chatbots, RAG pipelines, AI agents, enterprise copilots.
+**🔬 [AI Security Training Lab](https://github.com/Jeanmatozo/AI-security-training-lab)**
+End-to-end red teaming lab for LLM, RAG, and agent systems. Structured attack
+playbooks, SHA-256 signed evidence pipeline, and full methodology mapped to
+OWASP LLM Top 10 · MITRE ATLAS · NIST AI RMF.
+`Python` `FastAPI` `LangChain` `ChromaDB` `Docker`
 
-[llm-red-team-toolkit](https://github.com/Jeanmatozo/llm-red-team-toolkit)  
-Automation toolkit for adversarial AI testing. Structured attack prompt libraries, automated testing harnesses, red team experiment workflows, and reproducible test logs. Built to simulate realistic adversarial probing at scale.
+**[AI-LLM-security-lab](https://github.com/Jeanmatozo/AI-LLM-security-lab)**
+Adversarial prompt experiments, attack simulations, and governance-aligned risk
+artifacts across chatbots, RAG pipelines, agents, and enterprise copilots.
 
-[nist-ai-rmf-assessments](https://github.com/Jeanmatozo/nist-ai-rmf-assessments)  
-This repository demonstrates practical mappings of AI vulnerabilities (e.g., OWASP LLM Top 10) to the NIST AI Risk Management Framework (RMF) 1.0. It focuses on US federal mandates (OMB M-24-10 legacy guidance for rights- and safety-impacting AI systems) and helps reduce liability under SEC AI disclosure rules.
+**[llm-red-team-toolkit](https://github.com/Jeanmatozo/llm-red-team-toolkit)**
+Automated red teaming harness — structured attack libraries, reproducible test
+logs, and adversarial probing workflows built for scale.
+
+**[nist-ai-rmf-assessments](https://github.com/Jeanmatozo/nist-ai-rmf-assessments)**
+Practical OWASP LLM Top 10 → NIST AI RMF mappings aligned to OMB M-24-10
+and SEC AI disclosure requirements.
 
 ---
 
