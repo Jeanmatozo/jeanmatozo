@@ -4,7 +4,7 @@
 
 I attack, break, and analyze AI systems, then translate findings into governance frameworks that help organizations deploy AI safely. My work spans adversarial testing, LLM security engineering, and AI risk governance aligned to **NIST AI RMF**, **OWASP LLM Top 10**, **ISO/IEC 27001 / 42001**, and **MITRE ATLAS**. 
 
-🔗 [LinkedIn](https://www.linkedin.com/in/jean-akingeneye-00500213/) |  [Consulting](https://ecomitrix.com/) |  [AI-LLM Security Lab](https://github.com/Jeanmatozo/AI-LLM-security-lab)
+🔗 [LinkedIn](https://www.linkedin.com/in/jean-akingeneye-00500213/) |  [Consulting](https://ecomitrix.com/) | [AI Security Training Lab](https://github.com/Jeanmatozo/AI-security-training-lab)
 
 
 ---
