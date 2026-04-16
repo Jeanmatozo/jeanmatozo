@@ -1,6 +1,6 @@
 # Hi, I'm Jean 👋
 
-**AI/LLM Security Engineer | AI Red Teaming & Risk Assessment | AI Risk & Governance**
+**AI Risk & Governance Analyst | GRC for AI Systems | NIST AI RMF | Adversarial Testing Background**
 
 I attack, break, and analyze AI systems, then translate findings into governance frameworks that help organizations deploy AI safely. My work spans adversarial testing, LLM security engineering, and AI risk governance aligned to **NIST AI RMF**, **OWASP LLM Top 10**, **ISO/IEC 27001 / 42001**, and **MITRE ATLAS**. 
 
