@@ -47,6 +47,11 @@ This is not a collection of jailbreaks. Each finding is mapped to a governance f
 [View Repository →](https://github.com/Jeanmatozo/AI-security-training-lab)
 
 ---
+**Repository 3 — `AI-Security-training-lab`** *(Technical Edge)*
+
+[View Repository →](https://github.com/Jeanmatozo/AI-security-training-lab)
+
+---
 ## Credentials & Framework Fluency
  
 | Credential | Issuer | Year |
