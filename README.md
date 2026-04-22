@@ -44,7 +44,7 @@ This is not a collection of jailbreaks. Each finding is mapped to a governance f
 **Framework alignment:** OWASP LLM Top 10 · MITRE ATLAS · NIST AI RMF · ISO/IEC 42001
 `Python` `FastAPI` `LangChain` `ChromaDB` `Docker`
  
-[View Repository →](https://github.com/Jeanmatozo/AI-security-training-lab)
+[View Repository →](https://github.com/Jeanmatozo/llm-adversarial-findings/)
 
 ---
 **Repository 3 — `AI-Security-training-lab`** *(Technical Edge)*
