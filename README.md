@@ -22,6 +22,7 @@ Each assessment follows a consistent methodology:
 - Control mapping: ISO 42001 · NIST AI RMF · OWASP LLM Top 10
 - Residual risk scoring and prioritized remediation roadmap
 - Executive summary written for leadership — not just technical reviewers
+  
 **Active assessment scenarios:** Financial services LLM · Enterprise RAG policy assistant · Healthcare guardrail evaluation · Federal contractor CUI deployment (CMMC 2.0)
  
 [View Repository →](https://github.com/Jeanmatozo/nist-ai-rmf-assessments)
@@ -41,6 +42,7 @@ This is not a collection of jailbreaks. Each finding is mapped to a governance f
 - AI agent tool abuse and privilege escalation
 - Guardrail bypass and safety filter failure modes
 - Multi-turn adversarial manipulation chains
+
 **Framework alignment:** OWASP LLM Top 10 · MITRE ATLAS · NIST AI RMF · ISO/IEC 42001
 `Python` `FastAPI` `LangChain` `ChromaDB` `Docker`
  
@@ -48,6 +50,13 @@ This is not a collection of jailbreaks. Each finding is mapped to a governance f
 
 ---
 **Repository 3 — `AI-Security-training-lab`** *(Technical Edge)*
+> *"The engine behind the findings"*
+ 
+A Docker-based red team lab for hands-on testing of LLM, RAG, and agent systems. Includes structured attack playbooks, an SHA-256 signed evidence pipeline, and three fully functional environments used to produce the findings documented in Repository 2.
+ 
+**Lab environments:** Intentionally vulnerable chatbot · RAG pipeline (LangChain + ChromaDB) · Tool-enabled agent with SSRF vector
+ 
+**Stack:** Python · FastAPI · LangChain · ChromaDB · Docker · Ed25519 signed evidence pipeline
 
 [View Repository →](https://github.com/Jeanmatozo/AI-security-training-lab)
 
