@@ -68,6 +68,10 @@ A Docker-based red team lab for hands-on testing of LLM, RAG, and agent systems.
 | ISO/IEC 27001:2022 Lead Auditor | Mastermind Assurance | 2025 |
 | Cybersecurity Fundamentals (TEEX AWR-418) | Texas A&M Engineering Extension | 2025 |
 | Generative AI for Everyone | DeepLearning.AI | 2025 |
+
+**Projects & challenge completed:**  
+- AWS Scholars Program Project: Analyze Data using AI with PartyRock 2026
+- Future AWS Agent Engineer (Nanodegree Program) 2026
  
 **Frameworks:** NIST AI RMF · ISO/IEC 27001 · ISO/IEC 42001 · OWASP LLM Top 10 · MITRE ATLAS · OMB M-24-10 · CMMC 2.0
  
