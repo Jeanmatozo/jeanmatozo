@@ -1,112 +1,254 @@
 ## Jean Akingeneye
 
-**AI Risk & Governance Analyst | GRC for AI Systems | NIST AI RMF | Adversarial Testing Background**
+**Technology & Program Management | AI Governance & Cybersecurity | Applied AI Development**
 
 🔗 Philadelphia, PA · [LinkedIn](https://www.linkedin.com/in/jean-akingeneye-00500213/)
 
+I work at the intersection of **technology, project and program management, and responsible AI adoption**, combining organizational leadership with hands-on technical exploration.
 
-I build governance frameworks that help organizations deploy AI safely and I understand the attack surface I'm governing because I have tested it directly.
-My work connects three things most analysts treat separately: **assessing AI risk against established frameworks**, **finding where AI systems actually fail under adversarial conditions**, and **translating both into decisions organizations can act on**. The result is governance that isn't theoretical — it's grounded in what breaks and why.
+With 12+ years of experience across higher education, technology-driven programs, and consulting, I have led complex initiatives, managed cross-functional teams, supported enterprise technology transitions, and developed strategic partnerships.
+
+My technical work focuses on **AI governance, cybersecurity, and applied AI development**—assessing AI risks, investigating system vulnerabilities, and translating findings into practical decisions for organizations.
+This portfolio documents that work through structured risk assessments, controlled security testing environments, and hands-on AI application projects.
+
+---
+## Featured Projects
+
+### 1. AI Governance & Risk Assessments
+
+**[View Repository →](https://github.com/Jeanmatozo/nist-ai-rmf-assessments)**
+
+Structured AI risk assessment scenarios exploring how organizations can evaluate AI systems, identify control gaps, and develop practical remediation strategies.
+
+**Focus areas:**
+- AI system risk identification and assessment
+- Risk registers and control gap analysis
+- Control mapping and framework alignment
+- Prioritized remediation planning
+- Executive reporting and governance documentation
+
+**Assessment methodology:**
+1. Define the AI system and deployment context.
+2. Identify risks across relevant NIST AI RMF functions.
+3. Evaluate existing controls and potential gaps.
+4. Map findings to applicable governance and security frameworks.
+5. Document residual risks and remediation priorities.
+6. Translate findings into actionable recommendations for leadership.
+
+**Assessment scenarios:**
+- Financial services LLM
+- Enterprise RAG policy assistant
+- Healthcare AI guardrail evaluation
+- Federal contractor AI deployment involving CUI and CMMC 2.0 considerations
+
+**Frameworks:** NIST AI RMF · ISO/IEC 42001 · OWASP LLM Top 10 · OMB M-24-10
 
 ---
 
-## What I am building
-**Repository 1 — `ai-governance-risk-assessments`** *(Flagship)*
-> *"I align AI with compliance"*
- 
-Complete AI system risk assessment packages — executive summaries, risk registers, control gap analyses, and remediation roadmaps aligned to NIST AI RMF, ISO/IEC 42001, OMB M-24-10, and OWASP LLM Top 10.
- 
-Each assessment follows a consistent methodology:
-- System description and deployment context
-- Risk identification across NIST AI RMF Map/Measure functions
-- Control mapping: ISO 42001 · NIST AI RMF · OWASP LLM Top 10
-- Residual risk scoring and prioritized remediation roadmap
-- Executive summary written for leadership — not just technical reviewers
-  
-**Active assessment scenarios:** Financial services LLM · Enterprise RAG policy assistant · Healthcare guardrail evaluation · Federal contractor CUI deployment (CMMC 2.0)
- 
-[View Repository →](https://github.com/Jeanmatozo/nist-ai-rmf-assessments)
+### 2. LLM Adversarial Findings
 
----
+**[View Repository →](https://github.com/Jeanmatozo/llm-adversarial-findings/)**
 
-**Repository 2 — `llm-adversarial-findings`** *(Technical Edge)*
-> *"I break AI systems — and explain what it means for your organization"*
- 
-Structured adversarial finding reports from controlled lab environments. Each finding follows a four-part format: realistic organizational scenario → documented evidence → framework mapping → concrete mitigation recommendation.
- 
-This is not a collection of jailbreaks. Each finding is mapped to a governance failure — the control that doesn't exist, the risk register entry that should have caught it, the architectural decision that created the exposure.
- 
-**Active research areas:**
+Structured security research documenting how AI systems can fail under adversarial conditions and what those failures mean for organizational risk.
+
+The objective is not simply to demonstrate vulnerabilities, but to connect technical evidence with governance weaknesses, control gaps, and practical mitigation recommendations.
+
+**Research areas:**
 - Direct and indirect prompt injection
 - RAG document poisoning and context boundary failures
-- AI agent tool abuse and privilege escalation
-- Guardrail bypass and safety filter failure modes
-- Multi-turn adversarial manipulation chains
+- AI agent tool misuse and privilege boundaries
+- Guardrail effectiveness and safety filter limitations
+- Multi-turn adversarial manipulation
 
-**Framework alignment:** OWASP LLM Top 10 · MITRE ATLAS · NIST AI RMF · ISO/IEC 42001
+**Finding methodology:**
+1. Define a realistic organizational scenario.
+2. Conduct testing in a controlled environment.
+3. Document observations and supporting evidence.
+4. Map findings to applicable risk and security frameworks.
+5. Identify contributing control or design weaknesses.
+6. Recommend practical mitigation measures.
+
+**Frameworks:** OWASP LLM Top 10 · MITRE ATLAS · NIST AI RMF · ISO/IEC 42001
+
+**Technologies:** Python · FastAPI · LangChain · ChromaDB · Docker
+
+---
+
+### 3. AI Security Training Lab
+
+**[View Repository →](https://github.com/Jeanmatozo/AI-security-training-lab)**
+
+A Docker-based research environment for hands-on testing of LLM, retrieval-augmented generation (RAG), and AI agent systems.
+
+The lab supports controlled experimentation, technical evidence collection, and analysis of security boundaries in AI-enabled applications.
+
+**Lab environments:**
+- Intentionally vulnerable chatbot
+- RAG application using LangChain and ChromaDB
+- Tool-enabled AI agent for security boundary testing
+
+**Technical focus:**
+- AI application architecture
+- Prompt injection and RAG security
+- Agent permissions and tool-use boundaries
+- Structured security testing
+- Evidence collection and documentation
+- Translating technical findings into governance recommendations
+
+**Technology stack:**
+
 `Python` `FastAPI` `LangChain` `ChromaDB` `Docker`
- 
-[View Repository →](https://github.com/Jeanmatozo/llm-adversarial-findings/)
+
+**Evidence and automation concepts:**
+
+`SHA-256` `Ed25519` `GitHub Actions`
+
+All experiments are intended for controlled research and educational environments.
 
 ---
-**Repository 3 — `AI-Security-training-lab`** *(Technical Edge)*
-> *"The engine behind the findings"*
- 
-A Docker-based red team lab for hands-on testing of LLM, RAG, and agent systems. Includes structured attack playbooks, an SHA-256 signed evidence pipeline, and three fully functional environments used to produce the findings documented in Repository 2.
- 
-**Lab environments:** Intentionally vulnerable chatbot · RAG pipeline (LangChain + ChromaDB) · Tool-enabled agent with SSRF vector
- 
-**Stack:** Python · FastAPI · LangChain · ChromaDB · Docker · Ed25519 signed evidence pipeline
 
-[View Repository →](https://github.com/Jeanmatozo/AI-security-training-lab)
+## Technical Skills & Frameworks
+
+### AI & Application Development
+
+- Python
+- FastAPI
+- LangChain
+- ChromaDB
+- Docker
+- Retrieval-Augmented Generation (RAG)
+- AI application evaluation
+- AI workflow automation
+
+### AI Governance & Risk Management
+
+- NIST AI Risk Management Framework
+- ISO/IEC 42001
+- AI risk assessments
+- Control gap analysis
+- Risk registers and remediation planning
+- AI governance documentation
+- Responsible AI adoption
+
+### Cybersecurity & Compliance
+
+- ISO/IEC 27001
+- CMMC 2.0
+- OWASP LLM Top 10
+- MITRE ATLAS
+- Security risk assessment
+- Compliance documentation
+- Adversarial AI testing
+
+### Project & Technology Management
+
+- Project and program management
+- Technology implementation support
+- Cross-functional collaboration
+- Stakeholder coordination
+- Business process improvement
+- Functional testing and issue reporting
+- Technology evaluation
+- Change adoption
 
 ---
-## Credentials & Framework Fluency
- 
+
+## Education & Professional Development
+
+### Education
+
+**Temple University — Fox School of Business**  
+M.S., Innovation Management & Entrepreneurship | 2018
+
+**Drexel University**  
+B.S.B.A., Accounting | 2011
+
+### Certifications & Training
+
 | Credential | Issuer | Year |
 |---|---|---|
 | ISO/IEC 27001:2022 Lead Auditor | Mastermind Assurance | 2025 |
 | Cybersecurity Fundamentals (TEEX AWR-418) | Texas A&M Engineering Extension | 2025 |
 | Generative AI for Everyone | DeepLearning.AI | 2025 |
 
-**Projects & challenge completed:**  
-- AWS Scholars Program Project: Analyze Data using AI with PartyRock 2026
-- Future AWS Agent Engineer (Nanodegree Program) 2026
- 
-**Frameworks:** NIST AI RMF · ISO/IEC 27001 · ISO/IEC 42001 · OWASP LLM Top 10 · MITRE ATLAS · OMB M-24-10 · CMMC 2.0
- 
-**Tools & Infrastructure:** Python · LangChain · FastAPI · ChromaDB · Docker · GitHub Actions · OPA (Rego)
+### Additional Learning
 
---- 
-## Background That Informs the Work
-
-My path into AI governance isn't a straight line — and that's the point.
-
-A BS in Accounting from Drexel and an MS from Temple's Fox School of Business means I read risk through a financial and organizational lens, not just a technical one. Time spent inside Temple's MS in IT Auditing and Cybersecurity program — recruiting and evaluating candidates — gave me a front-row view of what the field actually demands from practitioners. An ISO 27001 Lead Auditor certification grounds my governance work in audit discipline, not just framework familiarity.
-
-The adversarial testing work came later, deliberately. I wanted to govern AI systems I actually understood from the inside.
+- AWS Scholars Program — Analyze Data Using AI with PartyRock (2026)
+- AWS Agentic AI Engineer Nanodegree — In Progress (2026)
 
 ---
 
-## Research Signals *(Controlled Lab Environments)*
+## Professional Background
 
-Experiments in this repository include:
+My professional experience spans higher education operations, technology-enabled programs, consulting, and organizational development.
 
-- adversarial prompt testing
-- guardrail failure analysis
-- AI agent boundary testing
-- governance-aligned security documentation
+**Program & Project Leadership**
 
-All experiments are conducted in **controlled research environments** designed to understand failure modes and strengthen AI system resilience. Each repository reflects work in progress, not finished research — because real risk assessment is never finished.
+At Temple University, I have managed large-scale, grant-funded programs, coordinated multidisciplinary teams, developed operational workflows, and supported initiatives involving educational technology and community partnerships.
 
+**Enterprise Technology & Operations**
+
+At Temple's Fox School of Business, I contributed as an end-user to the Banner Recruit-to-Slate CRM transition, participating in workflow discussions, functional testing, issue reporting, and implementation-team meetings.
+
+**Cybersecurity & AI Governance**
+
+My consulting and independent technical work includes cybersecurity compliance assessments, risk documentation, AI governance research, and evaluation of AI-enabled workflows.
+
+**Innovation & Organizational Development**
+
+My work also includes technology product initiatives, stakeholder engagement, strategic partnerships, and early-stage organizational and technology planning.
+
+Across these experiences, my focus has remained consistent: **connecting technology, organizational needs, and practical execution.**
 
 ---
 
-## Community & Thought Leadership
-- CMMC professionals network (CPN) - Member 
-- LLM Security and AI Red Teaming group - Member
-- Cyber Touch Point Community - Contributor 
+## Research Approach
+
+My AI security and governance projects emphasize four principles:
+
+**1. Understand the system**
+
+Examine the intended use, architecture, data flows, operational context, and potential exposure points.
+
+**2. Evaluate risk**
+
+Identify vulnerabilities, assess potential impacts, and consider relevant governance and security controls.
+
+**3. Document evidence**
+
+Capture reproducible observations, technical findings, assumptions, and limitations.
+
+**4. Translate findings into action**
+
+Connect technical risks to operational decisions, remediation priorities, and responsible implementation practices.
+
+Research is conducted in **controlled laboratory environments** and is intended to support learning, defensive security analysis, and improved AI governance.
 
 ---
 
-*This portfolio is actively updated. Each repository reflects work in progress — because real risk assessment is never finished.*
+## Community & Professional Engagement
+
+- CMMC Professionals Network (CPN) — Member
+- LLM Security and AI Red Teaming Group — Member
+- Cyber Touch Point Community — Contributor
+
+---
+
+## Let's Connect
+
+I am interested in collaboration and professional opportunities involving:
+
+- Technology and program management
+- AI governance and responsible AI implementation
+- Cybersecurity risk and compliance
+- Digital transformation and operational innovation
+- Applied AI development and evaluation
+
+**[Connect on LinkedIn →](https://www.linkedin.com/in/jean-akingeneye-00500213/)**
+
+---
+
+*This portfolio documents ongoing technical projects, applied research, and professional development. Individual repositories provide additional information about implementation status, methodology, and findings.*
+
+
+
