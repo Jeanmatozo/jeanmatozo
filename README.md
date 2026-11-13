@@ -6,10 +6,13 @@
 
 I work at the intersection of **technology, project and program management, and responsible AI adoption**, combining organizational leadership with hands-on technical exploration.
 
-With 12+ years of experience across higher education, technology-driven programs, and consulting, I have led complex initiatives, managed cross-functional teams, supported enterprise technology transitions, and developed strategic partnerships.
+I have 12+ years of experience leading initiatives, coordinating cross-functional teams, and supporting technology-driven improvements across higher education and consulting.
 
-My technical work focuses on **AI governance, cybersecurity, and applied AI development**—assessing AI risks, investigating system vulnerabilities, and translating findings into practical decisions for organizations.
-This portfolio documents that work through structured risk assessments, controlled security testing environments, and hands-on AI application projects.
+My growing focus is on the intersection of AI governance, cybersecurity, and enterprise risk management, particularly how organizations can adopt AI responsibly while managing security and operational risks.
+
+Through independent projects and hands-on learning, I'm building practical experience in LLM security testing, AI risk assessment, and AI application development.
+
+This portfolio documents my projects, findings, and continued technical development.
 
 ---
 ## Featured Projects
