@@ -157,6 +157,9 @@ All experiments are intended for controlled research and educational environment
 
 ### Education
 
+**Temple University — Fox School of Business**
+Graduate Certificate, IT Auditing and Cybersecurity | Spring 2027
+
 **Temple University — Fox School of Business**  
 M.S., Innovation Management & Entrepreneurship | 2018
 
